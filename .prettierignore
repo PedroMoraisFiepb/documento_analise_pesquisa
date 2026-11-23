@@ -1,0 +1,10 @@
+dist
+coverage
+data
+work
+output
+mock/data
+tests/fixtures
+tests/**/__snapshots__
+.claude
+package-lock.json

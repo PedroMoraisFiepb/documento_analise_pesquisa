@@ -1,0 +1,93 @@
+{
+  "Row": [
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 1,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": " a ",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 2,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "X",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 3,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 1,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "B",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 103,
+      "PROVA": "Avaliação da Gestão 2026",
+      "TEXTO": "Atende no prazo?",
+      "ID_INSCRICAO": 4,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 103,
+      "PROVA": "Avaliação da Gestão 2026",
+      "TEXTO": "Atende no prazo?",
+      "ID_INSCRICAO": 4,
+      "CODQUESTAO": 2,
+      "CODRESPOSTA": "E",
+      "DESCOBJETOAVALIADO": "SECRETARIA",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 104,
+      "PROVA": "Avaliação: Direção/Coordenação?",
+      "TEXTO": "Q?",
+      "ID_INSCRICAO": 5,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "B",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 105,
+      "PROVA": "avaliação da direção 2026",
+      "TEXTO": "Q?",
+      "ID_INSCRICAO": 6,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": "abc",
+      "PROVA": "Linha rejeitada",
+      "ID_INSCRICAO": null,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "Patos"
+    }
+  ]
+}

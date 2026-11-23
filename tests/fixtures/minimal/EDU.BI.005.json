@@ -1,0 +1,68 @@
+{
+  "Row": [
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: João da Silva - 1AEM - Matemática",
+      "PROFESSOR": "João da Silva",
+      "DISCIPLINA": "Matemática",
+      "CODTURMA": "1AEM",
+      "TURMA": "1º Ano A",
+      "QUANT_ALUNOS": 30,
+      "QUANT_RESPOSTAS": 300,
+      "PORCENTAGEM_RESPOSTAS": 100,
+      "QUANTIDADE_ALUNOS_TURMA": 30,
+      "UNIDADE": "Unidade Campina Grande",
+      "CURSO": "Ensino Médio",
+      "SERIE": "1º Ano",
+      "ANO": "2026",
+      "MODALIDADE": "REGULAR"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: João da Silva - 1AEM - Física",
+      "PROFESSOR": "João da Silva",
+      "DISCIPLINA": "Física",
+      "CODTURMA": "1AEM",
+      "TURMA": "1º Ano A",
+      "QUANT_ALUNOS": 24,
+      "QUANT_RESPOSTAS": 240,
+      "PORCENTAGEM_RESPOSTAS": 80,
+      "QUANTIDADE_ALUNOS_TURMA": 30,
+      "UNIDADE": "Unidade Campina Grande",
+      "CURSO": "Ensino Médio",
+      "SERIE": "1º Ano",
+      "ANO": "2026",
+      "MODALIDADE": "REGULAR"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Maria Oliveira - 2BEM - Língua Portuguesa",
+      "PROFESSOR": "Maria Oliveira",
+      "DISCIPLINA": "Língua Portuguesa",
+      "CODTURMA": "2BEM",
+      "TURMA": "2º Ano B",
+      "QUANT_ALUNOS": 25,
+      "QUANT_RESPOSTAS": 250,
+      "PORCENTAGEM_RESPOSTAS": 93,
+      "QUANTIDADE_ALUNOS_TURMA": 27,
+      "UNIDADE": "Unidade João Pessoa",
+      "CURSO": "Ensino Médio",
+      "SERIE": "2º Ano",
+      "ANO": "2026",
+      "MODALIDADE": "REGULAR"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Carlos Souza - EJA01 - História",
+      "PROFESSOR": "Carlos Souza",
+      "DISCIPLINA": "História",
+      "CODTURMA": "EJA01",
+      "TURMA": "EJA Noturno",
+      "QUANT_ALUNOS": 9,
+      "QUANT_RESPOSTAS": 90,
+      "PORCENTAGEM_RESPOSTAS": 45,
+      "QUANTIDADE_ALUNOS_TURMA": 20,
+      "UNIDADE": "Unidade Campina Grande",
+      "CURSO": "EJA Profissionalizante",
+      "SERIE": "Módulo I",
+      "ANO": "2026",
+      "MODALIDADE": "EJA"
+    }
+  ]
+}

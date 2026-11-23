@@ -1,0 +1,88 @@
+{
+  "Row": [
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Luiz Carlos - Neto - 1AEM - Biologia",
+      "PROFESSOR": "Luiz Carlos - Neto",
+      "DISCIPLINA": "Biologia",
+      "CODTURMA": "1AEM",
+      "TURMA": "1º Ano A",
+      "QUANT_ALUNOS": 10,
+      "QUANT_RESPOSTAS": 20,
+      "PORCENTAGEM_RESPOSTAS": null,
+      "QUANTIDADE_ALUNOS_TURMA": 40,
+      "UNIDADE": "Unidade  João   Pessoa",
+      "CURSO": "Ensino Médio",
+      "SERIE": "1º Ano",
+      "ANO": "2026",
+      "MODALIDADE": "REGULAR"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Sérgio Ramos - 3AEM - Filosofia",
+      "PROFESSOR": "Sérgio Ramos",
+      "DISCIPLINA": "Filosofia",
+      "CODTURMA": "3AEM",
+      "TURMA": "3º Ano A",
+      "QUANT_ALUNOS": 0,
+      "QUANT_RESPOSTAS": 0,
+      "PORCENTAGEM_RESPOSTAS": 0,
+      "QUANTIDADE_ALUNOS_TURMA": 0,
+      "UNIDADE": "Unidade João Pessoa",
+      "CURSO": "Ensino Médio",
+      "SERIE": "3º Ano",
+      "ANO": "2026",
+      "MODALIDADE": "REGULAR"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Juliana Costa - EJA01 - Matemática",
+      "PROFESSOR": "Juliana Costa",
+      "DISCIPLINA": "Matemática",
+      "CODTURMA": "EJA01",
+      "TURMA": "EJA Noturno",
+      "QUANT_ALUNOS": 12,
+      "QUANT_RESPOSTAS": 24,
+      "PORCENTAGEM_RESPOSTAS": 60,
+      "QUANTIDADE_ALUNOS_TURMA": 20,
+      "UNIDADE": "Unidade João Pessoa",
+      "CURSO": "EJA Profissionalizante",
+      "SERIE": "Módulo I",
+      "ANO": "2026",
+      "MODALIDADE": "EJA"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Juliana Costa - EJA01 - Matemática",
+      "PROFESSOR": "Juliana Costa",
+      "DISCIPLINA": "Matemática",
+      "CODTURMA": "EJA01",
+      "TURMA": "EJA Noturno",
+      "QUANT_ALUNOS": 1,
+      "QUANT_RESPOSTAS": 2,
+      "PORCENTAGEM_RESPOSTAS": 5,
+      "QUANTIDADE_ALUNOS_TURMA": 20,
+      "UNIDADE": "Unidade João Pessoa",
+      "CURSO": "EJA Profissionalizante",
+      "SERIE": "Módulo I",
+      "ANO": "2026",
+      "MODALIDADE": "EJA"
+    },
+    {
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Rita Alves - TEC1 - Redes",
+      "PROFESSOR": "Rita Alves",
+      "DISCIPLINA": "Redes",
+      "CODTURMA": "TEC1",
+      "TURMA": "Técnico 1",
+      "QUANT_ALUNOS": 8,
+      "QUANT_RESPOSTAS": 16,
+      "PORCENTAGEM_RESPOSTAS": 80,
+      "QUANTIDADE_ALUNOS_TURMA": 10,
+      "UNIDADE": "Unidade João Pessoa",
+      "CURSO": "Técnico",
+      "SERIE": "Módulo 1",
+      "ANO": "2026",
+      "MODALIDADE": "TÉCNICO"
+    },
+    {
+      "PROFESSOR": "Linha inválida",
+      "QUANT_ALUNOS": "abc"
+    }
+  ]
+}

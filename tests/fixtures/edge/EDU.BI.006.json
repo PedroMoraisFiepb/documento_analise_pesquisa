@@ -1,0 +1,54 @@
+{
+  "Row": [
+    {
+      "CODPROVA": 21,
+      "PROVA": "Pesquisa de Satisfação 2026",
+      "TEXTO": "Satisfeito?",
+      "ID_INSCRICAO": 7,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "João Pessoa"
+    },
+    {
+      "CODPROVA": 21,
+      "PROVA": "Pesquisa de Satisfação 2026",
+      "TEXTO": "Satisfeito?",
+      "ID_INSCRICAO": 7,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "João Pessoa"
+    },
+    {
+      "CODPROVA": 21,
+      "PROVA": "Pesquisa de Satisfação 2026",
+      "TEXTO": "Satisfeito?",
+      "ID_INSCRICAO": 8,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "Z",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "João Pessoa"
+    },
+    {
+      "CODPROVA": 22,
+      "PROVA": "Provas de Professores",
+      "TEXTO": "Q?",
+      "ID_INSCRICAO": 9,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "D",
+      "DESCOBJETOAVALIADO": null,
+      "UNIDADE": "João Pessoa"
+    },
+    {
+      "CODPROVA": 23,
+      "PROVA": "Avaliação Geral 2026",
+      "TEXTO": "Q?",
+      "ID_INSCRICAO": 11,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "C",
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Quebrado",
+      "UNIDADE": "João Pessoa"
+    }
+  ]
+}

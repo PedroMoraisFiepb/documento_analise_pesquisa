@@ -1,0 +1,56 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SVG > renderiza SVG estável (snapshot) 1`] = `
+"<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 450">
+<rect width="800" height="450" x="0" y="0" fill="#FFFFFF"></rect>
+<path d="M170.5 110L170.5 406" fill="none" pointer-events="visible" stroke="#E5E5E5" class="zr0-cls-0"></path>
+<path d="M282.5 110L282.5 406" fill="none" pointer-events="visible" stroke="#E5E5E5" class="zr0-cls-0"></path>
+<path d="M393.5 110L393.5 406" fill="none" pointer-events="visible" stroke="#E5E5E5" class="zr0-cls-0"></path>
+<path d="M505.5 110L505.5 406" fill="none" pointer-events="visible" stroke="#E5E5E5" class="zr0-cls-0"></path>
+<path d="M616.5 110L616.5 406" fill="none" pointer-events="visible" stroke="#E5E5E5" class="zr0-cls-0"></path>
+<path d="M728.5 110L728.5 406" fill="none" pointer-events="visible" stroke="#E5E5E5" class="zr0-cls-0"></path>
+<path d="M170.5 110L170.5 406" fill="none" pointer-events="visible" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M170.5 110.5L165.5 110.5" fill="none" pointer-events="visible" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M170.5 258.5L165.5 258.5" fill="none" pointer-events="visible" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M170.5 406.5L165.5 406.5" fill="none" pointer-events="visible" stroke="#6E7079" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" xml:space="preserve" transform="translate(162.48 184)" fill="#333333">Biologia – 1º Ano A</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" xml:space="preserve" transform="translate(162.48 332)" fill="#333333">Média geral do professor</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" y="6" transform="translate(170.48 414)" fill="#333333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" y="6" transform="translate(281.984 414)" fill="#333333">1</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" y="6" transform="translate(393.488 414)" fill="#333333">2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" y="6" transform="translate(504.992 414)" fill="#333333">3</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" y="6" transform="translate(616.496 414)" fill="#333333">4</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" y="6" transform="translate(728 414)" fill="#333333">5</text>
+<path d="M170.5 166l446 0l0 36l-446 0Z" fill="#52AE32" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M170.5 314l446 0l0 36l-446 0Z" fill="#164194" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M0 -8l31.5 0l0 16l-31.5 0Z" transform="translate(621.496 184)" fill="#FFFFFF" class="zr0-cls-3"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;font-weight:bold;" x="4" transform="translate(621.496 184)" fill="#164194">4,00</text>
+<path d="M0 -8l31.5 0l0 16l-31.5 0Z" transform="translate(621.496 332)" fill="#FFFFFF" class="zr0-cls-3"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;font-weight:bold;" x="4" transform="translate(621.496 332)" fill="#164194">4,00</text>
+<path d="M486.5 110L486.5 406" fill="none" pointer-events="visible" stroke="#6CC2BA" stroke-width="3" stroke-dasharray="12,6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;font-weight:bold;" xml:space="preserve" y="-6" transform="translate(486.0363 104)" fill="#164194">Média da unidade: 2,83</text>
+<path d="M-212.2 -5l424.3 0l0 53l-424.3 0Z" transform="translate(400 17)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;font-weight:bold;" xml:space="preserve" y="10" transform="translate(400 17)" fill="#164194">Luiz Carlos - Neto</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:13px;font-family:DejaVu Sans, Arial, Helvetica, sans-serif;" xml:space="preserve" y="36.5" transform="translate(400 17)" fill="#333333">João Pessoa · Média do professor: 4,00 · Média da unidade: 2,83</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(90,191,55,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(24,71,162,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+
+]]>
+
+</style>
+</svg>"
+`;

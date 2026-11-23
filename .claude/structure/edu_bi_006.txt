@@ -1,0 +1,54 @@
+{
+  "Row": [
+    {
+      "CODPROVA": 21,
+      "PROVA": "Pesquisa de Satisfação 2026",
+      "TEXTO": "Você está satisfeito com a escola?",
+      "ID_INSCRICAO": 100001,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 21,
+      "PROVA": "Pesquisa de Satisfação 2026",
+      "TEXTO": "O atendimento da secretaria é adequado?",
+      "ID_INSCRICAO": 100001,
+      "CODQUESTAO": 2,
+      "CODRESPOSTA": "B",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 21,
+      "PROVA": "Pesquisa de Satisfação 2026",
+      "TEXTO": "Você está satisfeito com a escola?",
+      "ID_INSCRICAO": 100245,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "C",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "João Pessoa"
+    },
+    {
+      "CODPROVA": 22,
+      "PROVA": "Avaliação de Infraestrutura 2026",
+      "TEXTO": "As salas de aula são confortáveis?",
+      "ID_INSCRICAO": 100390,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "D",
+      "DESCOBJETOAVALIADO": "Professor - Turma - Disciplina: Carlos Souza - EJA01 - História",
+      "UNIDADE": "Patos"
+    },
+    {
+      "CODPROVA": 22,
+      "PROVA": "Avaliação de Infraestrutura 2026",
+      "TEXTO": "Os laboratórios estão bem equipados?",
+      "ID_INSCRICAO": 100501,
+      "CODQUESTAO": 2,
+      "CODRESPOSTA": "E",
+      "DESCOBJETOAVALIADO": "",
+      "UNIDADE": "São José de Piranhas"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Precisso que crie uma automação que busque os dados de 3 consultas que irei te repassar e crie um arquivo .docx, .xlsx e arquivo .jpg e .png em uma pasta, com as informações retornadas das consultas
+A extrutura das consultas vai está em .claude/structure nos arquivos com os nomes das consultas.
+As consultas serão realizadas para a api do totvs rm, acessivel por esse link https://gestaoescolar.fiepb.org.br/FrameHTML/rm/api/TOTVSCustomizacao/ConsultasSQL/ExecutaConsultaSQL?codColigada=2&codSistema=S&codSentenca=<sentenca>parameters=
+lembre-se de fazer a separação dos relatorios por provas, respondidos por professor, EDU.BI.004, e respondidos por alunos, EDU.BI.005 e EDU.BI.006.
+A estrutura de pastas geradas pela automação deve ser, Unidades => [Provas respondidas por professor (EDU.BI.004) e alunos do regular (EDU.BI.005 e EDU.BI.006)] => Provas [Professores, Direção, Coordenadores e etc] => [.docx, .excel. imagens/]
+No caso do EDU.BI.005 deve ter mais uma pasta, sendo o seguinte modelo: Unidades => [Provas respondidas por alunos do regula (EDU.BI.005) => Provas de Professores => [Nome do Professor] => [.docx, .excel. imagens/]
+No final a automação deve retornar um zipavel.
+Pode utilizar apenas os comandos do node.js com npm para usar como forma de interação.
+Divida a automação em passos, um comando que puxa os dados do SGE e outro/outros que gerem os arquivos, sempre que for trabalhar com um processo pesado quero que separe em mais uma etapa que rode um comando
+A intenção das imagens é trazer um valor calculado em uma media para professor, no caso da EDU.BI.005, e nas outras consultas pode trazer uma média da unidade.
+Quero que vc crie um mock para ser usado com a strutura de dados, além de usar dock para subir com o mock e uma para produção com os dados reais
+Template de cores da aplicação: #164194, #008BD2, #6CC2BA, #52AE32, #E84910
+Lembre-se de sempre cobrir o código com testes unitarios e de integração
+Guarde todas as informacoes de regra de negocio e desenvolvimento dentro de um /docs em .claude, sempre lembre de atualizar lá
+Mantenha bons padroes de escrita de código e qualidade de software
+Em caso de duvidas sobre algum ponto pode me perguntar.

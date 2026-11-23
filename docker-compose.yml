@@ -1,0 +1,47 @@
+# Perfis:
+#   mock → servidor que imita o TOTVS + pipeline usando .env.mock
+#          docker compose --profile mock up --build --abort-on-container-exit --exit-code-from pipeline-mock
+#   prod → pipeline contra o TOTVS real usando .env.prod (não versionado; ver .env.prod.example)
+#          docker compose --profile prod run --rm --build pipeline
+services:
+  mock-totvs:
+    profiles: [mock]
+    build: .
+    image: relatorios-avaliacao:local
+    command: ['node', 'dist/mock/serve.js']
+    env_file: .env.mock
+    environment:
+      MOCK_PORT: '3001'
+    healthcheck:
+      test:
+        [
+          'CMD',
+          'node',
+          '-e',
+          "fetch('http://localhost:3001/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))",
+        ]
+      interval: 2s
+      timeout: 3s
+      retries: 15
+
+  pipeline-mock:
+    profiles: [mock]
+    image: relatorios-avaliacao:local
+    depends_on:
+      mock-totvs:
+        condition: service_healthy
+    env_file: .env.mock
+    environment:
+      TOTVS_BASE_URL: http://mock-totvs:3001
+    volumes:
+      - ./output:/app/output
+
+  pipeline:
+    profiles: [prod]
+    build: .
+    image: relatorios-avaliacao:local
+    env_file:
+      - path: .env.prod
+        required: false
+    volumes:
+      - ./output:/app/output

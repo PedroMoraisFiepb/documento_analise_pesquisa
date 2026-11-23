@@ -1,0 +1,54 @@
+{
+  "Row": [
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 500101,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção comunica as decisões com clareza?",
+      "ID_INSCRICAO": 500101,
+      "CODQUESTAO": 2,
+      "CODRESPOSTA": "B",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 500102,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "C",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "Campina Grande"
+    },
+    {
+      "CODPROVA": 101,
+      "PROVA": "Avaliação da Direção 2026",
+      "TEXTO": "A direção é acessível aos professores?",
+      "ID_INSCRICAO": 500201,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "A",
+      "DESCOBJETOAVALIADO": "DIREÇÃO",
+      "UNIDADE": "João Pessoa"
+    },
+    {
+      "CODPROVA": 102,
+      "PROVA": "Avaliação da Coordenação Pedagógica 2026",
+      "TEXTO": "A coordenação acompanha o planejamento das aulas?",
+      "ID_INSCRICAO": 500103,
+      "CODQUESTAO": 1,
+      "CODRESPOSTA": "D",
+      "DESCOBJETOAVALIADO": "COORDENAÇÃO PEDAGÓGICA",
+      "UNIDADE": "Campina Grande"
+    }
+  ]
+}
